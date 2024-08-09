@@ -14,7 +14,7 @@ Download PostgreSQL (npm install pg package).
 ## Usage
 
 Login to your postgres and connect to your database before running your javascript file on the terminal. To connect to your database you must first login to your postgres using your account information, type "\i db/schema.sql", and "\i db/seeds.sql". Run 'node index.js' on the terminal. Use the arrow keys to scroll through the dropdown menu and click enter to select an option of your choice. Once this is done, you can reply to the prompt accordingly. Check to make sure that your input is being logged in the terminal. For the options that prompt you to 'add', you can always choose the 'view' options to see if your input has been generated to the database. Once you are done with your prompt you should be taken back to the initial prompt and this process will keep looping until you choose to quit the terminal.  
-For further instructions please refer to this link: (https://drive.google.com/file/d/1JOcXVV-yJe6nLiAT4vn6boulb35sA-6l/view)
+For further instructions please refer to this link: (https://drive.google.com/file/d/1YLot0EpEWWH255ZFLZi_tG3ZIgylGwNm/view)
 
 
 ## License
